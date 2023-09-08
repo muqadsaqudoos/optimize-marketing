@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>Quotes</head>
+<body>
+<header>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" callpadding="5">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="Articals.html">Articals</a></td>
+<td><a href="Habits.html">Habits</a></td>
+<td><a href="Skills.html">skills</a></td>
+<td><a href="Quotes.html">Quotes</a></td>
+<td><a href="Books.html">Books</a></td>
+</nav>
+<table>
+</body>
